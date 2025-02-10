@@ -1,0 +1,15 @@
+# Ignore Visual Studio-specific files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.db
+*.vssscc
+*.vsidx
+*.vspx
+*.sdf
+x64/
+*.pdb
+*.exe
+*.dll

@@ -1,0 +1,6 @@
+this is the secodn line
+this is the third line
+ this text is in append mode 
+ahmed
+ahmed
+ahmed
